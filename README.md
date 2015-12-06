@@ -1,5 +1,6 @@
 # 概要
 WebAPIを使用してサーバーに接続しているプレイヤーの情報を表示させるプログラムです。
+
 1. WebAPI.php
   - 使用するWebAPIのURLを記述しているだけです。
 2. online-user.php
